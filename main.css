@@ -1,3 +1,9 @@
 h1 {
   background-color: #426493;
 }
+#Manaslu{
+  background-image: url(Images/DSC_4423.jpg);
+  width: 500px;
+  height: 250px;
+  background-size: cover;
+}
